@@ -1,0 +1,15 @@
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/Hola mundo
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/Hola mundo.deps.json
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/Hola mundo.runtimeconfig.json
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/Hola mundo.dll
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/ref/Hola mundo.dll
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/bin/Debug/net6.0/Hola mundo.pdb
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.csproj.AssemblyReference.cache
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.AssemblyInfoInputs.cache
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.AssemblyInfo.cs
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.csproj.CoreCompileInputs.cache
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.dll
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/ref/Hola mundo.dll
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.pdb
+/home/miguel/Documentos/Desarollo/C#/Hola mundo/obj/Debug/net6.0/Hola mundo.genruntimeconfig.cache
